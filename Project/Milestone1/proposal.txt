@@ -1,0 +1,3 @@
+There are many ways to analyze the dataset.
+One idea could be to focus on the US elections in 2016, as many the span of the quotations make exactly the time before and after 
+(Wann wurden die Kandidaturen bekanntgegeben/Vorwahlen?)
