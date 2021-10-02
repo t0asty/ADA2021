@@ -1,3 +1,22 @@
 There are many ways to analyze the dataset.
 One idea could be to focus on the US elections in 2016, as many the span of the quotations make exactly the time before and after 
-(Wann wurden die Kandidaturen bekanntgegeben/Vorwahlen?)
+(Wann wurden die Kandidaturen bekanntgegeben/Vorwahlen?), to see how people's perspectives on the candidates Clinton and Trump changed in the 
+time of the elections (and pre-elections). Especially in that context, it could be very interesting to 
+visualize which people talk positively about which candidate, or negatively. 
+
+It could also be interesting to cluster people on the political landscape based on their
+quotes. I could imagine that maybe from the choice of words, length of quotes, and other 
+features, it can be possible to map people to their political position. At this point, 
+it would also be interesting to map non-political persons on the political landscape, maybe
+the pope has a secret political position and would be a Trump supporter in the US?
+
+Another point to analyze could be diplomatic relations throughout the world. For that,
+one could map the quotes by president's/ministers to their countries and extract, about
+which countries they talk and what their intention is. I could imagine this could 
+outline some of the relations between countries, or show e.g. the constant try of
+Trump to connect to North Korea. 
+
+A bit more for fun could be to use the data to train a chatbot on specific persons. 
+It would be totally funny to have a bot that can generate random artificial quotes
+by the pope. It would also be interesting if this model is good enough to trick Quobert. 
+
