@@ -1,7 +1,7 @@
 There are many ways to analyze the dataset.
 One idea could be to focus on the US elections in 2016, as many the span of the quotations make exactly the time before and after 
-(Wann wurden die Kandidaturen bekanntgegeben/Vorwahlen?), to see how people's perspectives on the candidates Clinton and Trump changed in the 
-time of the elections (and pre-elections). Especially in that context, it could be very interesting to 
+the elections, starting from the first announcements by Clinton and Sanders to run for presidential nomination in 2015, to the Caucuses and the final election in 2016, to see how people's perspectives on the candidates Clinton and Trump changed in the 
+time of the elections. Especially in that context, it could be very interesting to 
 visualize which people talk positively about which candidate, or negatively. 
 
 It could also be interesting to cluster people on the political landscape based on their
@@ -18,5 +18,17 @@ Trump to connect to North Korea.
 
 A bit more for fun could be to use the data to train a chatbot on specific persons. 
 It would be totally funny to have a bot that can generate random artificial quotes
-by the pope. It would also be interesting if this model is good enough to trick Quobert. 
+by the pope. It would also be interesting if this model is good enough to trick Quobert
+by generating artificial quotations from specific persons that Quobert actually links to 
+that specific person with high probability. 
 
+Furthermore, when doing some basic statistics on the dataset, I found out that the quotation 
+with the most occurrences in the sample was the title of the 9th Star Wars movie. Hence, 
+it could also be an option to focus the analysis more on movies and series: What do people think 
+about them? Which people or celebrities like them or do not like them? For that, we would need to classify
+th quotations mentioning a specific movie into positive, negative or neutral. Combining this 
+with some data about when those movies where released could show interesting changes in how 
+people thought about the movie or series before it was released (or the new season is released),
+and how they think about some weeks afterwards. And also how many quotations there are mentioning the 
+movie during that time. Is there a big hype on the days and weeks before the release? Maybe people are still
+interested into the movie some weeks afterwards, so a real hype was generated. 
